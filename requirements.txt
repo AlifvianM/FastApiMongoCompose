@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+motor
+pylint
+flake8
+pydantic[email]
